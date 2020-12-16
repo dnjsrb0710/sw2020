@@ -7,6 +7,7 @@
 - [COMP312 운영체제 / 2020년 1학기 / 강순주](https://github.com/dnjsrb0710/Operating-System)<br>
 - [COMP319 알고리즘 / 2020년 1학기 / 장길진](https://github.com/dnjsrb0710/Algorithm) <br>
 - [COMP422 소프트웨어공학 / 2020년 1학기 / 권영우](https://github.com/dnjsrb0710/sprinter)<br>
+- [COMP217 / JAVA / 2019년 1학기 / 권혜진](https://github.com/dnjsrb0710/JAVA)
 
 
 ### 외부 참여형
