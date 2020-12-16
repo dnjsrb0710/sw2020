@@ -8,7 +8,7 @@
 - [COMP319 알고리즘 / 2020년 1학기 / 장길진](https://github.com/dnjsrb0710/Algorithm) <br>
 - [COMP422 소프트웨어공학 / 2020년 1학기 / 권영우](https://github.com/dnjsrb0710/sprinter)<br>
 - [COMP217 / JAVA / 2019년 1학기 / 권혜진](https://github.com/dnjsrb0710/JAVA)
-
+- [EECS201 C프로그래밍과실습/ 2019년 여름계절 / 이경숙](https://github.com/dnjsrb0710/C-language/blob/master/README.md)
 
 ### 외부 참여형
 
